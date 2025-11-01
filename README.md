@@ -1,8 +1,8 @@
 # Experiment no: 7
 # DL- Convolutional Autoencoder for Image Denoising
 
-## NAME : AVINASH T
-## REG NO. : 212223230026
+## NAME : NIJANTH K
+## REG NO. : 212224230186
 ## AIM
 To develop a convolutional autoencoder for image denoising application.
 
@@ -28,9 +28,9 @@ Repeat through multiple epochs for better denoising performance.
 
 ## PROGRAM
 
-### Name: AVINASH T
+### Name: NIJANTH K
 
-### Register Number: 212223230026
+### Register Number: 212224230186
 
 ```python
 import torch
